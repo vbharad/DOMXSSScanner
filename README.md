@@ -250,10 +250,10 @@ dom_xss_reports/
 
 ## Examples
 
-### Detecting javascript: Protocol XSS (like your loginUrl case)
+### Detecting javascript: Protocol XSS
 
 ```powershell
-python dom.py -u "https://app.example.com/login.html?isiclogin=false&loginUrl=" --generate-pocs -v
+python dom.py -u "https://app.example.com/login.html?loginUrl=" --generate-pocs -v
 ```
 
 The tool will:
