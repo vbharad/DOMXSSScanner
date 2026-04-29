@@ -137,6 +137,9 @@ python dom.py -u https://target.com --proxy http://127.0.0.1:8080
 python dom.py -u https://target.com --no-dynamic
 ```
 
+### Confirmed XSS Finding
+https://github.com/vbharad/DOMXSSScanner/blob/main/Confirmed%20XSS.png
+
 ---
 
 ## Command-Line Options
