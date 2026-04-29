@@ -138,7 +138,7 @@ python dom.py -u https://target.com --no-dynamic
 ```
 
 ### Confirmed XSS Finding
-https://github.com/vbharad/DOMXSSScanner/blob/main/Confirmed%20XSS.png
+![Confirmed_XSS](https://github.com/vbharad/DOMXSSScanner/blob/main/Confirmed%20XSS.png) 
 
 ---
 
